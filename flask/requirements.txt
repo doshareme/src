@@ -1,0 +1,6 @@
+flask
+gunicorn
+waitress
+boto3
+pymongo
+flask_cors
