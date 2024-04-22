@@ -1,5 +1,5 @@
 ## DoShare
-Share with the world.
+Share anything, anytime. Simple, secure, ad-free.
 
 ## What is this?
 Welcome to the sourcy-thingy stuff page of doshare.me . Here we build potions🫕, deploy concoctions and use magic words🎩 to finally build the website you are looking at 🪄.
