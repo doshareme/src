@@ -9,3 +9,5 @@ All contributions and pull requests are welcome.
 
 ## Have an Idea or Want a feature?
 Sure, we love them. Open up a discussion [here](https://github.com/doshareme/src/discussions/categories/ideas)
+
+[DoShare](https://github.com/doshareme/src) © 2024 is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
