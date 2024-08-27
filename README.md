@@ -1,6 +1,9 @@
 ## DoShare
 Share anything, anytime. Simple, secure, ad-free.
 
+![09581658cf05433699fc0c3b222502d3-1724695196289 (1)_312c57f2-649f-4ea3-8e65-fd116e5eb835](https://github.com/user-attachments/assets/9bce4e53-b336-4c16-bac9-0079196d0702)
+
+
 ## What is this?
 Welcome to the sourcy-thingy stuff page of doshare.me . Here we build potions🫕, deploy concoctions and use magic words🎩 to finally build the website you are looking at 🪄.
 
